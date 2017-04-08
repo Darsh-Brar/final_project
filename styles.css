@@ -1,0 +1,73 @@
+table.table1{
+    text-align:left;
+    width:350;
+    height:350;
+	  border: 1px solid black;
+		border-collapse: collapse;
+		cursor: pointer;
+		padding: 0;	
+	}
+				              
+table.table1 td, th, tr{
+  text-align:center;
+  border:3px solid black;
+	border-collapse: collapse; 
+	padding: 0;	                           
+}
+
+#h11{
+  text-align:center;
+}
+#timer{
+	text-align:center;
+	
+	}
+#demo2{
+	text-align:center;
+	
+	}
+#h22{
+  text-align:center;
+}
+
+#h33{
+  text-align:center;
+}
+
+#ibutton{
+  text-align:center;
+}
+
+.focus{
+	font-size: 1.3rem;
+}
+
+.restart{
+	height: 40px;
+	width: 230px;
+	font-size: 1.3rem;
+	color: white;
+	background: red;
+	border-radius: 9px;
+	opacity: 0.7;
+}
+.restart:hover{
+	opacity: 1;
+}
+.timer{
+	font-size: 1.8rem;
+	font-weight: bolder;
+}
+body{
+	background-color: #ABEBC6;
+}
+
+.current_time{
+	
+}
+
+
+
+
+
+
